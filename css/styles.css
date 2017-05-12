@@ -1,0 +1,60 @@
+html {
+  font-family: 'Indie Flower', cursive;
+  box-sizing: border-box;
+}
+body {
+  background: url("https://previews.123rf.com/images/huhulin/huhulin1106/huhulin110600008/9660995-seamless-doodle-background-formed-with-web-pattern-Stock-Vector.jpg")
+}
+.Main {
+  background-color: rgba(255,255,255,0.97);
+  margin: 100px;
+  padding: 10px 20px;
+}
+nav.navbar {
+  position: fixed;
+  top: 0;
+  background: url("https://images.template.net/wp-content/uploads/2016/04/23094826/Light-Blue-Colored-Chalkboard-Background-for-Download.jpg");
+  opacity: 0.9;
+  color: white;
+  padding: 10px 0px 5px 0px;
+  height: 30px;
+  text-align: left;
+  width: 100%;
+  display: block;
+  margin-left: 0;
+}
+li {
+  float: left;
+  list-style-type: none;
+  margin-right: 30px;
+  margin-left: 0;
+  line-height: 1px;
+  font-size: 18px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  opacity: 0.5;
+}
+a:active {
+  opacity: 0.2;
+}
+
+h1 {
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 50px;
+  margin-top: auto;
+  margin-bottom: 0;
+  text-align: center;
+}
+.squiggle {
+  height: 70px;
+  width: 170px;
+  margin-top: 0;
+}
+.content {
+
+}
